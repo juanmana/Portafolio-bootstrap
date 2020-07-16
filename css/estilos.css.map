@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAIA,WAAW;EAEP,gBAAgB,EAAC,kBAAqB;;AAG1C,aAAa;EAEb,KAAK,EAAE,kBAAqB;;AAG5B,YAAY;EAER,gBAAgB,EAAC,kBAAqB;EACtC,YAAY,EAAE,kBAAgC;;AAKlD;kBACmB;EACf,gBAAgB,EAAC,kBAAgC;;AAIrD,mBAAoB;EAChB,gBAAgB,EAAC,kBAAgC;;AAKrD;;aAEa;AAEb,IAAI;EAEA,SAAS,EAAE,IAAI;;AAKnB,WAAW;EAEP,UAAU,EAAE,kBAAkB",
+"sources": ["../scss/estilos.scss"],
+"names": [],
+"file": "estilos.css"
+}
